@@ -1,0 +1,3 @@
+xml.ruta=3PAG2_E1.xml
+export.csv=3PAG2_E1_export.csv
+export.xml=3PAG2_E1_export.xml
